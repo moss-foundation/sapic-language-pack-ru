@@ -2,9 +2,9 @@
   "identifier": "lang-ru",
   "name": "Russian Language Pack",
   "authors": ["sapic"],
-  "description": "German language pack for SAPIC",
+  "description": "Russian language pack for SAPIC",
   "repository": "https://github.com/moss-foundation/sapic-language-pack-ru",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "contributes": {
     "languages": [
